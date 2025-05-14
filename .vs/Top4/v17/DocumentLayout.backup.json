@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\typenberechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\typenberechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\teams.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\kampfsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\kampfsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\typ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\typ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\trainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\teamfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\teamfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\typenberechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\typenberechnung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\pokemon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\attacke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\attacke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\typ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\typ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|c:\\users\\mavromatisgeorgios\\source\\repos\\top4\\top4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{35ED9AAF-B985-4798-8EE7-13959EEBEC3A}|Top4\\Top4.csproj|solutionrelative:top4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,11 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
+              "Title": "Attacke.cs",
+              "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Attacke.cs",
+              "RelativeDocumentMoniker": "Top4\\Attacke.cs",
+              "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Attacke.cs",
+              "RelativeToolTip": "Top4\\Attacke.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:26:08.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pokemon.cs",
+              "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Pokemon.cs",
+              "RelativeDocumentMoniker": "Top4\\Pokemon.cs",
+              "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Pokemon.cs",
+              "RelativeToolTip": "Top4\\Pokemon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:26:21.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "TypenBerechnung.cs",
               "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\TypenBerechnung.cs",
               "RelativeDocumentMoniker": "Top4\\TypenBerechnung.cs",
@@ -59,28 +85,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Teams.cs",
-              "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Teams.cs",
-              "RelativeDocumentMoniker": "Top4\\Teams.cs",
-              "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Teams.cs",
-              "RelativeToolTip": "Top4\\Teams.cs",
-              "ViewState": "AgIAAEsAAAAAAAAAAAAYwGYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "TeamFactory.cs",
+              "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\TeamFactory.cs",
+              "RelativeDocumentMoniker": "Top4\\TeamFactory.cs",
+              "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\TeamFactory.cs",
+              "RelativeToolTip": "Top4\\TeamFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T13:27:10.877Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Kampfsystem.cs",
-              "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Kampfsystem.cs",
-              "RelativeDocumentMoniker": "Top4\\Kampfsystem.cs",
-              "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Kampfsystem.cs",
-              "RelativeToolTip": "Top4\\Kampfsystem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T13:27:00.721Z",
               "EditorCaption": ""
             },
             {
@@ -98,52 +111,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Pokemon.cs",
-              "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Pokemon.cs",
-              "RelativeDocumentMoniker": "Top4\\Pokemon.cs",
-              "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Pokemon.cs",
-              "RelativeToolTip": "Top4\\Pokemon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T13:26:21.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Attacke.cs",
-              "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Attacke.cs",
-              "RelativeDocumentMoniker": "Top4\\Attacke.cs",
-              "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Attacke.cs",
-              "RelativeToolTip": "Top4\\Attacke.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T13:26:08.346Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Typ.cs",
               "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Typ.cs",
               "RelativeDocumentMoniker": "Top4\\Typ.cs",
               "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Typ.cs",
               "RelativeToolTip": "Top4\\Typ.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T13:25:51.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
+              "Title": "Kampfsystem.cs",
+              "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Kampfsystem.cs",
+              "RelativeDocumentMoniker": "Top4\\Kampfsystem.cs",
+              "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Kampfsystem.cs",
+              "RelativeToolTip": "Top4\\Kampfsystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T13:27:00.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Program.cs",
               "RelativeDocumentMoniker": "Top4\\Program.cs",
               "ToolTip": "C:\\Users\\MavromatisGeorgios\\source\\repos\\Top4\\Top4\\Program.cs",
               "RelativeToolTip": "Top4\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T13:25:07.237Z",
               "EditorCaption": ""

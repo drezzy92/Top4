@@ -12,3 +12,4 @@ C:\Users\MavromatisGeorgios\source\repos\Top4\Top4\obj\Debug\net8.0\refint\Top4.
 C:\Users\MavromatisGeorgios\source\repos\Top4\Top4\obj\Debug\net8.0\Top4.pdb
 C:\Users\MavromatisGeorgios\source\repos\Top4\Top4\obj\Debug\net8.0\Top4.genruntimeconfig.cache
 C:\Users\MavromatisGeorgios\source\repos\Top4\Top4\obj\Debug\net8.0\ref\Top4.dll
+C:\Users\MavromatisGeorgios\source\repos\Top4\Top4\obj\Debug\net8.0\Top4.sourcelink.json

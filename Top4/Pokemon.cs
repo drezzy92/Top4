@@ -8,8 +8,10 @@ public class Pokemon
 	public Typ Typ1 { get; }
 	public Typ? Typ2 { get; }
 	public List<Attacke> Attacken { get; }
+	public int KP { get; internal set; }
+	public object Angriff { get; internal set; }
 
-	public Pokemon(string name, int maxKP, Typ typ1, Typ? typ2, List<Attacke> attacken)
+	public Pokemon(string name, int maxKP, Typ typ1, Typ typ2, List<Attacke> attacken)
 	{
 		Name = name;
 		MaxKP = maxKP;
