@@ -1,9 +1,8 @@
 ﻿using System.Collections.Generic;
-using Top4;
 
 public static class TypenBerechnung
 {
-	private static readonly Dictionary<(Typ, Typ), double> effektivitaet = new()
+	private static Dictionary<(Typ, Typ), double> effektivitaet = new Dictionary<(Typ, Typ), double>
 	{
         // Super effektiv
         {(Typ.Feuer, Typ.Pflanze), 2.0},
@@ -50,13 +49,24 @@ public static class TypenBerechnung
 		{(Typ.Drache, Typ.Fee), 0.0}
 	};
 
+	// Berechnet Effektivität
 	public static double Berechne(Typ angriffsTyp, Typ verteidiger1, Typ? verteidiger2)
 	{
-		double faktor1 = effektivitaet.ContainsKey((angriffsTyp, verteidiger1)) ? effektivitaet[(angriffsTyp, verteidiger1)] : 1.0;
-		double faktor2 = verteidiger2.HasValue && effektivitaet.ContainsKey((angriffsTyp, verteidiger2.Value))
-			? effektivitaet[(angriffsTyp, verteidiger2.Value)]
-			: 1.0;
+		// 1ter Typ des Verteidigers
+		double faktor1 = 1.0;
+		if (effektivitaet.ContainsKey((angriffsTyp, verteidiger1)))
+		{
+			faktor1 = effektivitaet[(angriffsTyp, verteidiger1)];
+		}
 
+		// 2ter Typ
+		double faktor2 = 1.0;
+		if (verteidiger2.HasValue && effektivitaet.ContainsKey((angriffsTyp, verteidiger2.Value)))
+		{
+			faktor2 = effektivitaet[(angriffsTyp, verteidiger2.Value)];
+		}
+
+		// Gesamtfaktor = beide Typen kombiniert
 		return faktor1 * faktor2;
 	}
 }

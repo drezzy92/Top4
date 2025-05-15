@@ -14,6 +14,9 @@ class Program
 		{
 			Console.WriteLine($"\n=== {trainer.Name} fordert dich zum Kampf heraus! ===");
 			bool gewonnen = KampfSystem.Kämpfe(spielerTeam, trainer.Team);
+			Console.WriteLine();
+			Console.WriteLine();
+			Console.WriteLine();
 
 			if (!gewonnen)
 			{
